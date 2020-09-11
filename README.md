@@ -1,3 +1,3 @@
 # BlogPost
 
- Simple React Native application with JSON API Server
+ Simple React Native application implementing CRUD operations with JSON API Server
